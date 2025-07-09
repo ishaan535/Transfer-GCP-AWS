@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "peerless-column-367317",
+  "private_key_id": "cf4d7beb576d7ae98ba20440683bc4f71474361a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpbrttPtdwCEkV\nicbZtW+Dr3bq0MuTYhhB5zBHVobdwz6UovnKAXat1uWP4eWNdqSSyVAv58eSpNiq\nMtM1pHdt6mvbXbDXQKraSR9Po7eX3ZTPFGAiP2G+/YkqFJ3ji3peCdymCkgSopVH\nA2vSziof/H8YlFguyfm3opUX2bq+W7K7uSDJZ3svhme5ZzECFFA9eKUrrcRNckKw\nRYnf9lYYqY6e/Ri3X7ENpPxoww7LL52vqZmPESDTYMNz13X+Gn+UPT/9HNJ2JiH1\n63LmYLwCeW81d0izuGKF4Ms2ekPNzq8aQ1QSyKY3LBu/vl6OgpLbtMfwCRhMiG0k\n5HYfw9Y3AgMBAAECggEACWVY/jWTbxJp+7YlMYTW6YMWSsoH2BMDDF0hQMSnjm5Q\nnJ+uhhKBtLPQMe0atLcb+tzCsbRDBF9YC7ntZLIU1JCuqPWLEfFhMU8HyY4wVQQo\noxSj09uEq4LWAWAK4uNJdG0nb/jt2URsKdM09XW2HMCzy1teExvjkDQX3Bw9JUMU\nnzOwcRIK5kwLTPXuraHhE1N9C7twPRMS+98ObjKBIlh3uNwTUe3pdMcY3jvcuPqO\nApRWuXQNRG9n8ehhaQ3PTQlD2AeBD4suBxy8szV/Ufn+EMREChLQN4vHqVyYfDoJ\nSFc2iL+OHNTNebBYR924uugV5l7icBHV2iErG9C5RQKBgQDmGHNBU79aooYhu1og\ngmHG0S+9BO2uUsikJ21H8A0LV2+0YZtyGswQoXCaqdlDittHC8MvF5v8CRgan4Mm\nZFJ3HQZK3h4eXu0pVUNC8g9Scy1LKuhDEbRT8U8rxGlex9Xd/PcnRgWEUOz0nt35\nmGlFf2MXuHAirXtk6Tb8hh2jnQKBgQC8gexiojm8iKsCpb/jjeROrsEj0VL+Qq3s\nB/02MPN6Lkc/B6LA/Zreqs5Q0S5S8BR9zgsQHP1WOV0gGb55odYOO34zJFLi/VRS\nVL2Nt6LZAYWvtpzKl11jYObzLrAtgJl2TBbjAf9nFVniB0t0Gx1CluwQUGCBkkrT\n4R87afQq4wKBgQCM4uuvVFgWZu06Oj01KqAz3GIemqXt10KDQKDpK1LRXvhGun0z\noLTSegc4rEcb1CnvloQskYgxCmB37LOhDkxwIpV3wgkvD3Cnnk1Q8GXxVhSlseAF\nMRH5VAfmBJ2AK1wIUJwEsBswqVxta9j+uxO6OgWywHvov9COOT4x4OzFAQKBgFAJ\nkgZm/sCv/nwHSCwj6NYHmPXOQMC4KwRWeAp0SkyMLa/zXAU5KHJ2b1cdGeAZE3o+\n66+Rv3bGsGWayKb4MdylIfYw7Ah4qz6xwDHV0Iz2+n4auQPDtOEnGagTILaRLZdu\nwyDrjjeEdz9i/YR0pr3JOr3Kgs9BAAhqQ0qEuCklAoGAcd7aafvoigyCn49aJV0c\n2vJ7UMfBiCEZs8zKbf8EfVNlRoZ75uMiOF+hNFFBgzptZz2CcxSJDg818mnbbq1A\nZN6nFV54S+MMSE3OMMivtL76irxN4soh/fm6QZZA9EQWXJ+5CkSYXK24I58VIIkS\nCuRRbgQdPohv0Fk/wtIweWA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-aws-transfer-2@peerless-column-367317.iam.gserviceaccount.com",
+  "client_id": "108660733665109008563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-aws-transfer-2%40peerless-column-367317.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
